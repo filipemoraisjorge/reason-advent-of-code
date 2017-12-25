@@ -5,7 +5,7 @@
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
     "clean": "bsb -clean-world",
-    "run": "nodemon ./src/day3.bs.js"
+    "run": "nodemon ./src/day4.bs.js"
   },
   "keywords": [
     "BuckleScript"
